@@ -1,10 +1,20 @@
-# Blaxline
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/Blaxline/.github/main/profile/blaxline-wordmark.svg"
+    alt="Blaxline"
+    width="220"
+  />
+</p>
 
-### Custom business software built around the way your business works.
+<br>
 
-Blaxline designs, builds, operates and evolves software for important business operations that standard tools no longer fit.
+# Software that fits the way your business actually works.
 
-We start with the way the business actually works: its processes, rules, decisions, exceptions, data and systems. When custom software has earned its place, we turn that operating reality into a production system designed to remain useful as the business changes.
+Blaxline designs, builds, operates and evolves custom business software for important operations that standard tools no longer fit.
+
+We start with the operation itself: its people, rules, decisions, exceptions, data and systems. When custom software has earned its place, we turn that operating reality into a production system designed to remain useful as the business changes.
+
+[blaxline.com](https://blaxline.com)
 
 ---
 
@@ -12,16 +22,11 @@ We start with the way the business actually works: its processes, rules, decisio
 
 We create business-specific software for operations that have outgrown generic tools.
 
-Depending on the operation, that can include:
-
 - Operational platforms and internal systems
-- Workflow and approval systems
+- Workflow, approval and exception systems
 - Customer, partner and employee portals
-- Business process automation
-- Data and system integrations
-- Reporting and operational visibility
-- AI-assisted business capabilities
-- Client-specific applications and interfaces
+- Integrations, automation and operational visibility
+- AI-assisted capabilities where they create real business value
 
 The technology is not the product. The operational capability is.
 
@@ -29,25 +34,29 @@ The technology is not the product. The operational capability is.
 
 ## How we work
 
-Our approach starts with the business, not with a feature list.
+We start with the business, not with a feature list.
 
-**Understand**  
-Map the real operation: people, systems, rules, decisions, exceptions and friction.
+### Understand
 
-**Decide**  
-Determine whether custom software is actually the right answer and define the smallest valuable production scope.
+We map how the operation actually works: people, systems, data, rules, decisions, exceptions and friction.
 
-**Build**  
-Turn the operation into reliable software designed for real production use.
+### Decide
 
-**Evolve**  
-Operate, observe and improve the system as the business changes.
+We determine whether custom software is genuinely the right answer and define the smallest valuable production scope.
+
+### Build
+
+We turn the operation into reliable software designed for real production use, not just for delivery.
+
+### Evolve
+
+We operate, observe and improve the system as the business changes.
 
 ---
 
 ## Engineering principles
 
-Our systems are designed around a few principles:
+The systems we build are guided by a few principles:
 
 - **Business fit before product uniformity**
 - **Simple before distributed**
@@ -59,15 +68,27 @@ Our systems are designed around a few principles:
 - **AI as a capability, not an authority**
 - **Security, recovery and maintainability as part of the product**
 
-We standardize beneath the business, not across the business.
+> **We standardize beneath the business, not across the business.**
+
+---
+
+## Built for continuity
+
+Launching software is not the end of the relationship.
+
+We design systems to be operated, maintained and changed over time. That means observability, permissions, deployment discipline, recovery, documentation and ongoing evolution are considered part of production readiness from the beginning.
+
+The goal is not simply to deliver software that works today. It is to keep the software aligned with the operation as the business changes.
 
 ---
 
 ## Open source
 
-Most of our client systems are private.
+Most Blaxline client systems are private.
 
-This organization will also host selected open-source tools, technical experiments and reusable engineering resources developed through the Blaxline ecosystem.
+This organization will also host selected open-source tools, technical experiments and reusable engineering resources developed through our work.
+
+We publish when sharing something creates genuine value, not simply to make repositories public.
 
 ---
 
@@ -75,9 +96,13 @@ This organization will also host selected open-source tools, technical experimen
 
 Blaxline is a software company for established organizations whose important operating processes have become more specific than the software supporting them.
 
-We combine custom fit with long-term operating responsibility so companies can have software designed around how they work without needing to build their own software organization.
+We combine custom fit with long-term operating responsibility so companies can have software designed around the way they work without needing to build their own software organization.
 
-**Website:** [blaxline.com](https://blaxline.com)
+**Custom business software, managed and continuously evolved.**
+
+<br>
+
+[Website](https://blaxline.com)
 
 ---
 
