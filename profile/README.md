@@ -34,23 +34,24 @@ The technology is not the product. The operational capability is.
 
 ## How we work
 
-We start with the business, not with a feature list.
+We start with the operation, not with a feature list.
 
 ### Understand
-
-We map how the operation actually works: people, systems, data, rules, decisions, exceptions and friction.
-
-### Decide
-
-We determine whether custom software is genuinely the right answer and define the smallest valuable production scope.
+We map the real workflow: goals, people, systems, data, rules, decisions, exceptions and failure points.
 
 ### Build
+When custom software has earned its place, we turn that workflow into a production system: reusable platform capabilities beneath, business-specific logic and interfaces above.
 
-We turn the operation into reliable software designed for real production use, not just for delivery.
+### Operate
+We run the system responsibly within an agreed service scope: infrastructure, monitoring, continuity, security maintenance and support.
+
+### Observe
+We learn from real usage: friction, exceptions, business events and changing requirements.
 
 ### Evolve
+We adapt and extend the system as the business changes.
 
-We operate, observe and improve the system as the business changes.
+> The software is not the project. The continuing relationship between the company and its software is the product.
 
 ---
 
@@ -58,6 +59,7 @@ We operate, observe and improve the system as the business changes.
 
 The systems we build are guided by a few principles:
 
+- **Earn the build** — recommend existing software when it is good enough
 - **Business fit before product uniformity**
 - **Simple before distributed**
 - **Production readiness from the beginning**
